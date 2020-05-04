@@ -1,0 +1,5 @@
+FT Diesel Bombardier 10 carbune 28 2
+FT Diesel Bombardier 15 otel 25 3
+FT Electric FreightTrainAmerica 10 grau 10 7
+PT Diesel ElectroPutere 5 300 20 10
+PT Electric Bombardier 7 200 10 3

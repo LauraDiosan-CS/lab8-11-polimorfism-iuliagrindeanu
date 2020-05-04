@@ -1,0 +1,19 @@
+#pragma once
+#include "Train.h"
+#include "RepositoryFile.h"
+#include "RepositoryFileCSV.h"
+#include "RepositoryFileTXT.h"
+#include "FreightTrain.h"
+#include "PassengerTrain.h"
+#include <assert.h>
+#include <string>
+
+void testTrain();
+void testFreightTrain();
+void testPassengerTrain();
+void testLoadFromFileTXT();
+void testSaveToFile();
+void testAdd();
+void testFind();
+void testUpdate();
+void testLive1();

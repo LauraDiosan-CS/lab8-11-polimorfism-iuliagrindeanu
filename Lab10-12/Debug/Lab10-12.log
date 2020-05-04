@@ -1,0 +1,63 @@
+﻿  Service.cpp
+C:\Users\Iulia\source\repos\Lab10-12\Lab10-12\IRepository.h(63,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Iulia\source\repos\Lab10-12\Lab10-12\IRepository.h(61): message : while compiling class template member function 'int IRepository<T>::find(T *)'
+          with
+          [
+              T=Train
+          ]
+C:\Users\Iulia\source\repos\Lab10-12\Lab10-12\Service.cpp(58): message : see reference to function template instantiation 'int IRepository<T>::find(T *)' being compiled
+          with
+          [
+              T=Train
+          ]
+C:\Users\Iulia\source\repos\Lab10-12\Lab10-12\RepositoryFile.h(4): message : see reference to class template instantiation 'IRepository<T>' being compiled
+          with
+          [
+              T=Train
+          ]
+C:\Users\Iulia\source\repos\Lab10-12\Lab10-12\Service.cpp(16): message : see reference to class template instantiation 'RepositoryFile<Train>' being compiled
+C:\Users\Iulia\source\repos\Lab10-12\Lab10-12\IRepository.h(77,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Iulia\source\repos\Lab10-12\Lab10-12\IRepository.h(75): message : while compiling class template member function 'void IRepository<T>::update(T *,T *)'
+          with
+          [
+              T=Train
+          ]
+C:\Users\Iulia\source\repos\Lab10-12\Lab10-12\Service.cpp(62): message : see reference to function template instantiation 'void IRepository<T>::update(T *,T *)' being compiled
+          with
+          [
+              T=Train
+          ]
+  Test.cpp
+C:\Users\Iulia\source\repos\Lab10-12\Lab10-12\IRepository.h(63,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Iulia\source\repos\Lab10-12\Lab10-12\IRepository.h(61): message : while compiling class template member function 'int IRepository<T>::find(T *)'
+          with
+          [
+              T=Train
+          ]
+C:\Users\Iulia\source\repos\Lab10-12\Lab10-12\Test.cpp(65): message : see reference to function template instantiation 'int IRepository<T>::find(T *)' being compiled
+          with
+          [
+              T=Train
+          ]
+C:\Users\Iulia\source\repos\Lab10-12\Lab10-12\RepositoryFile.h(4): message : see reference to class template instantiation 'IRepository<T>' being compiled
+          with
+          [
+              T=Train
+          ]
+C:\Users\Iulia\source\repos\Lab10-12\Lab10-12\RepositoryFileTXT.h(7): message : see reference to class template instantiation 'RepositoryFile<Train>' being compiled
+C:\Users\Iulia\source\repos\Lab10-12\Lab10-12\Test.cpp(39): message : see reference to class template instantiation 'RepositoryFileTXT<Train>' being compiled
+C:\Users\Iulia\source\repos\Lab10-12\Lab10-12\IRepository.h(77,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Iulia\source\repos\Lab10-12\Lab10-12\IRepository.h(75): message : while compiling class template member function 'void IRepository<T>::update(T *,T *)'
+          with
+          [
+              T=Train
+          ]
+C:\Users\Iulia\source\repos\Lab10-12\Lab10-12\Test.cpp(77): message : see reference to function template instantiation 'void IRepository<T>::update(T *,T *)' being compiled
+          with
+          [
+              T=Train
+          ]
+  UI.cpp
+  main.cpp
+  Generating Code...
+  Lab10-12.vcxproj -> C:\Users\Iulia\source\repos\Lab10-12\Debug\Lab10-12.exe
